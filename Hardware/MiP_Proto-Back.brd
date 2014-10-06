@@ -314,8 +314,8 @@
 <text x="41.91" y="21.082" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180" align="center">TX</text>
 <text x="44.45" y="21.082" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180" align="center">6V</text>
 <text x="66.04" y="-24.13" size="1.27" layer="16" font="vector" ratio="15" rot="MR270" align="center">v10</text>
-<text x="62.23" y="0" size="1.27" layer="21" font="vector" ratio="15" rot="SR270" align="center">MiP Proto Back</text>
-<text x="62.23" y="0" size="1.27" layer="22" font="vector" ratio="15" rot="SMR90" align="center">MiP Proto Back</text>
+<text x="62.23" y="0" size="1.27" layer="21" font="vector" ratio="15" rot="SR270" align="center">MiP Proto-Back</text>
+<text x="62.23" y="0" size="1.27" layer="22" font="vector" ratio="15" rot="SMR90" align="center">MiP Proto-Back</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
