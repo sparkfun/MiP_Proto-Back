@@ -304,7 +304,7 @@
 <hole x="66.8476" y="18.7406" drill="3"/>
 <hole x="66.8476" y="-18.7594" drill="3"/>
 <wire x1="-1.6524" y1="-0.0094" x2="79.3476" y2="-0.0094" width="0.282" layer="48"/>
-<text x="40.64" y="-39.37" size="1.778" layer="51" ratio="15">Casey Kuhns</text>
+<text x="44.45" y="-39.37" size="1.778" layer="51" ratio="15">Casey Kuhns</text>
 <text x="36.83" y="21.082" size="0.8128" layer="21" font="vector" ratio="15" rot="R180" align="center">GND</text>
 <text x="39.37" y="21.082" size="0.8128" layer="21" font="vector" ratio="15" rot="R180" align="center">RX</text>
 <text x="41.91" y="21.082" size="0.8128" layer="21" font="vector" ratio="15" rot="R180" align="center">TX</text>
@@ -313,7 +313,9 @@
 <text x="39.37" y="21.082" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180" align="center">RX</text>
 <text x="41.91" y="21.082" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180" align="center">TX</text>
 <text x="44.45" y="21.082" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180" align="center">6V</text>
-<text x="66.04" y="-24.13" size="1.27" layer="16" font="vector" ratio="15" rot="MR270" align="center">v01</text>
+<text x="66.04" y="-24.13" size="1.27" layer="16" font="vector" ratio="15" rot="MR270" align="center">v10</text>
+<text x="62.23" y="0" size="1.27" layer="21" font="vector" ratio="15" rot="SR270" align="center">MiP Proto Back</text>
+<text x="62.23" y="0" size="1.27" layer="22" font="vector" ratio="15" rot="SMR90" align="center">MiP Proto Back</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -2176,9 +2178,6 @@ design rules under a new name.</description>
 <signal name="N$182">
 <via x="59.69" y="-8.89" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
-<signal name="N$183">
-<via x="62.23" y="-8.89" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
 <signal name="N$184">
 <via x="54.61" y="-6.35" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
@@ -2187,9 +2186,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$186">
 <via x="59.69" y="-6.35" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$187">
-<via x="62.23" y="-6.35" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
 <signal name="N$188">
 <via x="54.61" y="-3.81" extent="1-16" drill="1.016" diameter="1.9304"/>
@@ -2200,9 +2196,6 @@ design rules under a new name.</description>
 <signal name="N$190">
 <via x="59.69" y="-3.81" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
-<signal name="N$191">
-<via x="62.23" y="-3.81" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
 <signal name="N$192">
 <via x="54.61" y="-1.27" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
@@ -2211,9 +2204,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$194">
 <via x="59.69" y="-1.27" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$195">
-<via x="62.23" y="-1.27" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
 <signal name="N$196">
 <via x="44.45" y="8.89" extent="1-16" drill="1.016" diameter="1.9304"/>
@@ -2298,18 +2288,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$223">
 <via x="59.69" y="1.27" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$224">
-<via x="62.23" y="8.89" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$225">
-<via x="62.23" y="6.35" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$226">
-<via x="62.23" y="3.81" extent="1-16" drill="1.016" diameter="1.9304"/>
-</signal>
-<signal name="N$227">
-<via x="62.23" y="1.27" extent="1-16" drill="1.016" diameter="1.9304"/>
 </signal>
 <signal name="N$228">
 <via x="24.13" y="8.89" extent="1-16" drill="1.016" diameter="1.9304"/>
